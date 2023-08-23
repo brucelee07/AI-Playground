@@ -1,0 +1,23 @@
+html,
+body,
+#root,
+.App {
+  height: 100%;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.react-flow .react-flow__handle {
+  width: 20px;
+  height: 10px;
+  border-radius: 3px;
+  background-color: #66ccff;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
